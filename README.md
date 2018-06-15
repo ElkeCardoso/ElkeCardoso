@@ -1,6 +1,6 @@
 ---
 title: "Elke Cardoso Lab" 
-date: "`r Sys.Date()`"
+date: ""
 output:
   rmdformats::readthedown:
     highlight: kate
