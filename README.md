@@ -1,15 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Elke Cardoso Lab page
 
 You can use the [editor on GitHub](https://github.com/ElkeCardoso/ElkeCardoso/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Sobre
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+Possui graduação em Engenharia Agronômica pela Universidade de São Paulo (1964), mestrado em Agronomia (Fitopatologia) pela Universidade de São Paulo (1968) e Ph.D. em Plant Pathology - Ohio State University (1971). Fez Pós-doutorado em Microbiologia do Solo na Georg-August-Universität Göttingen na Alemanha (1981-1982). Atualmente é professora titular sênior de Microbiologia do Solo da Escola Superior de Agricultura Luiz de Queiroz da Universidade de São Paulo, no departamento de Ciência do Solo. Leciona e orienta no Curso de Pós-Graduação em Solos e Nutrição de Plantas (Conceito 7 pela CAPES) da ESALQ/USP. Também é professora titular 1 e docente permanente do programa de Pós-graduação em Ecologia de Ecossistemas do Centro Universitário Vila Velha - ES. Tem experiência na área de Agronomia, com ênfase em Microbiologia e Bioquímica do Solo, atuando principalmente nos seguintes temas: Rizobiologia, Micorrizas, Microrganismos Fixadores de Nitrogênio, Solubilização de fosfatos, Rizobactérias promotoras do crescimento de plantas, Tratamento de resíduos agro-industriais, Adubos orgânicos, Recuperação de áreas degradadas e biorremediação e Avaliação risco ambiental por meio da Ecotoxicologia Terrestre. Índice H = 20 Bolsista de produtividade do CNPq 1B
 
 # Header 1
 ## Header 2
